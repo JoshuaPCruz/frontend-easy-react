@@ -10,6 +10,8 @@ Uso de CSS Grid, y se modulariza el css junto a los componentes.
 
 Donde se muesta la información como si fuera un periodico real utilizando su encabezado y columna como se ve en una edicion impresa del mismo.
 
+![ScreenShot](<img src="../src/img/Pantallazo del ejercicio.png" width="400" height="700" />)
+
 #### Licencia
 
 rontend exercise easy responsive se lanza bajo la licencia MIT.
