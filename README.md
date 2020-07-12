@@ -10,7 +10,7 @@ Uso de CSS Grid, y se modulariza el css junto a los componentes.
 
 Donde se muesta la información como si fuera un periodico real utilizando su encabezado y columna como se ve en una edicion impresa del mismo.
 
-![Pantallazo del ejercicio](images/Pantallazo del ejercicio.png)
+![Pantallazo del ejercicio](https://user-images.githubusercontent.com/58483595/87258400-d3f65300-c468-11ea-8bd3-117264eb21bc.png)
 
 #### Licencia
 
