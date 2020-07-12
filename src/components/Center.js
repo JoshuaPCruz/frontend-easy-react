@@ -23,8 +23,8 @@ function Center() {
         </h3>
       <div className="main__center">
           <div className="main__center--detail">
-            <hr/>
-            <h6>Lorem ipsum dolor</h6>
+            <hr className="main--line" />
+            <h6 className="main__line--title">Lorem ipsum dolor</h6>
             <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quidem, delectus explicabo assumenda iste deserunt dignissimos, accusamus sequi quod quibusdam aliquam nulla quasi perspiciatis quis unde fugit reiciendis vero obcaecati quae?</p>
           </div>
           <div className="main__center--detail">
@@ -38,7 +38,7 @@ function Center() {
           </div>
     </div>
     </div>
-    <div className="items">
+    <div className="center--center">
       <h3 className="title__cursive">
         <i className="title__cursive--form">
           Lorem ipsum dolor sit amet consectetur adipisicing elit.
