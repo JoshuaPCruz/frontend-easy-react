@@ -12,6 +12,8 @@ Donde se muesta la información como si fuera un periodico real utilizando su en
 
 ![ScreenShot](<img src="../src/img/Pantallazo del ejercicio.png" width="400" height="700" />)
 
+![Scheme](images/Pantallazo del ejercicio.png)
+
 #### Licencia
 
 rontend exercise easy responsive se lanza bajo la licencia MIT.
